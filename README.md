@@ -23,7 +23,7 @@ Un semplice gioco di carta-forbice-sasso realizzato con Next.js che supporta due
 
 1. Clona il repository:
    ```bash
-   git clone https://github.com/your-username/cartaforbicesasso.git
+   git clone https://github.com/Dav-Projects/cartaforbicesasso.git
    ```
 
 2. Accedi alla directory del progetto:
