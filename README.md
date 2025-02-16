@@ -9,7 +9,7 @@ Un semplice gioco di carta-forbice-sasso realizzato con Next.js che supporta due
 - Design responsive
 
 ## Tecnologie Utilizzate
-- Next.js 13
+- Next.js
 - React
 - Tailwind CSS
 
